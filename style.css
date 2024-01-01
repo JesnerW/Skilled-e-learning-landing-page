@@ -313,7 +313,7 @@ section {
     .card {
       margin: 38px 16px 46px 16px;
       width: auto;
-      height: 285px;
+      height: auto;
       & > p {
         margin-top: 26px;
       }
